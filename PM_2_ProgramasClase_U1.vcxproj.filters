@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="P0_Intro.asm" />
+    <MASM Include="P1_Variables.asm" />
+    <MASM Include="Programa2_NombreSalma.asm" />
+    <MASM Include="P10_MUL_parte3.asm" />
+    <MASM Include="P11_Div.asm" />
+    <MASM Include="P13_DIV_parte3.asm" />
+    <MASM Include="P14_ImpresionTexto.asm" />
+    <MASM Include="P16_LecturaNumero.asm" />
+    <MASM Include="P17_Promedio3Nums.asm" />
+    <MASM Include="Prog2_Area_perimetro.asm" />
+    <MASM Include="Prog4_Trabajador.asm" />
+    <MASM Include="Prog1_doble_triple_num.asm" />
+    <MASM Include="P2_HerramientasDepuracion.asm" />
+    <MASM Include="P3_DepuracionV2.asm" />
+    <MASM Include="P4_Memoria.asm" />
+    <MASM Include="P5_Estructura.asm" />
+    <MASM Include="P6_Registros.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+</Project>
